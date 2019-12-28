@@ -6,6 +6,8 @@ Authentication using googleapis
 * Clone this repo `git clone https://github.com/rijdz/node-google-auth.git`
 * Install
 * Register Google application on [Console](https://console.developers.google.com/)
+* Download Google Key, then rename into google_key.json
+* Run `node index.js`
 
 ## Misc
 
